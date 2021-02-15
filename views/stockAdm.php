@@ -1,1 +1,0 @@
-<p>Bienvenu dans sur la page de stock de l'administrateur</p>
